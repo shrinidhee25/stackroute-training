@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(90deg, rgba(1,0,13,1) 0%, rgba(85,10,13,1) 53%);
+}
+
+.header{
+    
+    
+    color: azure;
+
+
+}
+ul{
+    list-style: none;
+    display: inline;
+    text-align: right;
+    justify-content: right;
+    
+}
+h1{
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    
+}
+.main{
+    display: inline;
+    color: azure;
+}
+.snacks{
+    color: azure;
+}
+.cart{
+    color: azure;
+}
+.footer{
+    color: azure;
+}
+img{
+    width: 190px;
+    height: 200px;
+}
